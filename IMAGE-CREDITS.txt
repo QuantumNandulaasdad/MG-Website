@@ -1,0 +1,33 @@
+SIGNAL STORY - IMAGE REFERENCES
+
+Kaminski, H. J., Sikorski, P., Coronel, S. I., & Kusner, L. L. (2024).
+Myasthenia gravis: the future is here. Journal of Clinical Investigation,
+134(12), e179742. https://doi.org/10.1172/JCI179742
+
+Figure 1: Structure of the NMJ.
+Source: https://www.jci.org/articles/view/179742/figure/1
+Local file: assets/jci-179742-figure-1.jpg
+
+Figure 2: Effector mechanisms of AChR antibodies.
+Source: https://www.jci.org/articles/view/179742/figure/2
+Local file: assets/jci-179742-figure-2.jpg
+
+Copyright 2024 Kaminski et al.
+Licence: Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+Both figures are reproduced unaltered; only their displayed size changes.
+Attribution is provided beneath each figure and in the article's image credits.
+No endorsement by the authors or journal is implied.
+
+Original project graphics:
+assets/mg-muscle-groups.svg (body map and eyelid illustration), phone illustrations,
+and interface graphics were created for this project with AI assistance.
+The body map is a simplified schematic based on NHS symptom guidance:
+NHS. (2023, September 13). Myasthenia gravis.
+https://www.nhs.uk/conditions/myasthenia-gravis/
+The body map is not a clinical image or diagnostic test.
+No patient photographs, music or video are used.
+
+Assessment note: the earlier declaration that no third-party images are used
+no longer applies to the article. Include the two figure references and the
+licence statement above in the Part B resource list. The game is unchanged.
