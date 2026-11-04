@@ -1,0 +1,56 @@
+SIGNAL STORY OF MYASTHENIA GRAVIS — READY-TO-UPLOAD COMMENTS
+Updated 4 November 2026
+
+Your Giscus code is already included. No code editing or configuration download
+is needed. This is the complete article and game package, with the scientific
+images and by NV Kaushik credits. There is no visitor counter.
+
+1. EXTRACT
+Right-click mg-community-kit.zip on Windows and select Extract All.
+Inside are MG-Website and Mg-Game folders. Do not upload the ZIP itself.
+
+2. UPLOAD THE ARTICLE
+Open https://github.com/quantumnandulaasdad/MG-Website
+Choose Add file > Upload files. Upload the CONTENTS of the MG-Website folder
+into your existing publishing folder (normally the repository root).
+Include index.html, styles.css, app.js, community.js, comments-config.html,
+IMAGE-CREDITS.txt and the assets folder. Keep assets/ as a folder.
+Commit the changes. Replace existing files when prompted.
+
+3. UPLOAD THE GAME
+Open https://github.com/quantumnandulaasdad/Mg-Game
+Upload the CONTENTS of the Mg-Game folder into its publishing folder and commit.
+Keep each index.html in its matching repository. Leave both repositories'
+existing GitHub Pages settings unchanged.
+
+4. TEST
+Wait for GitHub Pages deployment to finish. Open:
+https://quantumnandulaasdad.github.io/MG-Website/#discussion
+Click Show comments. The embedded discussion uses your purple theme and puts
+the comment box below the comments. Sign in with GitHub to post. The first
+comment or reaction creates the matching Discussion if it does not exist.
+Readers can view comments without signing in. The game links to this same
+article discussion. Comments are public and do not need approval by default.
+Manage them from your repository's Discussions tab.
+
+REQUIRED GITHUB SETTINGS
+Keep MG-Website public, Discussions enabled, and the Giscus app installed with
+access to MG-Website. The provided code has real repository and category IDs;
+those settings still need to remain enabled for live commenting to work.
+
+IF SOMETHING DOES NOT LOAD
+- Reload after deployment finishes; a hard refresh is Ctrl+F5 on Windows.
+- Upload ALL files, especially community.js and comments-config.html.
+- If Giscus reports an access/category error, check the three settings above
+  using https://giscus.app/.
+- A blocked widget has an Open discussion on GitHub link as a fallback.
+- Opening files locally or in the private preview will not load live comments.
+
+OLDER PACKAGES
+Use this ZIP instead of earlier versions. No START-HERE.html, Disfora, domain
+verification, Cloudflare Turnstile or visitor-counter setup is required.
+A leftover community-settings.json from an older upload is unused and can be
+removed. Do not replace this package with the old name-only update.
+
+Official Giscus information: https://giscus.app/
+GitHub app: https://github.com/apps/giscus
